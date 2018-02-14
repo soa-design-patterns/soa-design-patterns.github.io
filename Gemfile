@@ -21,6 +21,7 @@ gem 'jekyll-theme-leap-day', '~> 0.1.0'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'disqus-for-jekyll'
+  gem 'jekyll-analytics'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
