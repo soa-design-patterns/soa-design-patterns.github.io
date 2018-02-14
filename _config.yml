@@ -27,6 +27,11 @@ markdown: kramdown
 theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
+  - disqus-for-jekyll
+
+disqus:
+  name: "soa-design-patterns" # required
+  noscript: "Welcome and feel free to ask any question." # optional
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

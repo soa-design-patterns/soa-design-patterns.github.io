@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 # [](#summery) Summary
@@ -48,4 +49,6 @@ Inventory, Service
 
 
 
-[back](./)
+**[Back](./)**
+
+{% disqus %}
