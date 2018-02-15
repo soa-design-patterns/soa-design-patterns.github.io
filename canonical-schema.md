@@ -4,7 +4,7 @@ comments: true
 analyze: true
 ---
 
-# [](#summery) Summary
+# [](#summary) Canonical Schema
 
 How can services be designed to avoid data model transformation?
 
