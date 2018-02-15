@@ -1,6 +1,7 @@
 ---
 layout: default
 comments: true
+analyze: true
 ---
 
 # [](#summery) Summary
