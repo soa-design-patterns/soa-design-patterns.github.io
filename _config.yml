@@ -26,13 +26,7 @@ github_username:  selmeci
 markdown: kramdown
 theme: jekyll-theme-leap-day
 plugins:
-  - jekyll-feed
-  - disqus-for-jekyll
   - jekyll-analytics
-
-disqus:
-  name: "soa-design-patterns" # required
-  noscript: "Welcome and feel free to ask any question." # optional
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
